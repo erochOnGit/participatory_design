@@ -32,4 +32,3 @@ Thirdly you'll have to prepare narrative guidelines to introduce design methodol
 You want the participant to not go overboard leaving the crew or proposing solutions individually.
 Ideation exercises and design activities offer a good way to generate milestones in your workshop.
 This will allow to determine the thread that will lead to an intersting outcome.
-
