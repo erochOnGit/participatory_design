@@ -15,3 +15,5 @@ Plusieurs propositions sont soulevées.
 >Ici, les participants sont invités à explorer leurs environs, poser des questions sur l’environnement visuel qu’on leur propose. Ils proposent chacun deux solutions au problème qu’ils ont identifié, esquissent des solutions sur papier, listent les matériaux nécessaires. Notre but est ici de récupérer des “recettes” de conceptions low-tech qui répondent aux besoins primaires qu’ont identifié les participants.
 
 Les passagers décident de fabriquer un désalinisateur. Ils vont chauffer une casserole retrouvée dans les alentours, récupérer l’eau évaporée dans des récipients externes.
+
+>C'est là que s'achève notre fiction.
