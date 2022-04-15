@@ -1,1 +1,1 @@
-# participatory_design
+# participatory design
