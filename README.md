@@ -1,3 +1,3 @@
-# participatory_design
+# Participatory design
 
 test
