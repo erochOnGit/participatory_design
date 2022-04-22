@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>introduction_for_participatory_design_fiction.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<p><a href="README.md">Designer guide</a></p>
+<h1 id="introduction-for-participatory-design-fiction-workshop">Introduction for <em><strong>Participatory Design Fiction</strong></em> workshop</h1>
+<pre class="hljs"><code><div>A getting started to your first workshop  
+</div></code></pre>
+<p>The <em><strong>Participatory Design Fiction</strong></em> workshop is going to put yourself into the role of a game master helping players to design an outcome to a fictive matter they want to address.</p>
+<p>To quickly getting started you need to consider 2 elements that are the core of the project :</p>
+<ul>
+<li>you will need to narrate the fiction to immerge the participants.</li>
+<li>you will not be the author of the outcome of the session</li>
+</ul>
+<p>In this introductory event the participants needs to be immerged into a fictitious space in order to co-concieve, share and appropriate to themselves the outcome of the collaboration.
+You will be the vector of this production as proffesionnal designer and will be a helper, a mentor, a guide but not the author designer.
+Where you'll fade out will emerge the participants involvment.</p>
+<h2 id="what-is-needed">What is needed</h2>
+<p>What you need to start is participant (start with few) and a scenario on which you will refer to narrate.
+<a href="../content/Story1FR.md">The Trope of the Island</a> is a good base to start with.<br>
+Design tools will probably be handful for this introduction we are going to use sketching practice to co-design.</p>
+<h2 id="preparation">Preparation</h2>
+<p>To prepare the what is going to be the workshop session you'll need creative tools that can be used genericly like paper and pen. More complex materials (<a href="http://www.theses.fr/s256242">like small cardboard to co-design furniture</a>) can be used depending on the theme, the scenario, the users etc... but for a first session drawing is good enough.</p>
+<blockquote>
+<p>These are not for you it's for the participants. So make sure to bring enough for everyone.</p>
+</blockquote>
+<p>Secondly you'll need to prepare images and/or sound recording beforehand. These pictures are here to help immersion of the collaborators. They will provide content as well as material that the collaborators will be able to use in their conception.</p>
+<blockquote>
+<p>Don't bring your expansive argentic pictures. We want someting that we can cut and draw on.</p>
+</blockquote>
+<p>Thirdly you'll have to prepare narrative guidelines to introduce design methodologies.
+You want the participant to not go overboard leaving the crew or proposing solutions individually.<br>
+Ideation exercises and design activities offer a good way to generate milestones in your workshop.
+This will allow to determine the thread that will lead to an intersting outcome.<br>
+As the Designer you're going to need flexibility on theses milestones. Being able to absorb what the participant want to address first letting go what you would have priorities yourself. If a participant propose a way to ideate it is often worth pickingup on it.</p>
+<blockquote>
+<p>But in practice what does it look like ?</p>
+</blockquote>
+<h2 id="start-workshopping">Start workshopping !</h2>
+<p>For a first try we are going to propose a generic thread that you can follow or edit.</p>
+<p>Theses steps are interconnected by narration that you will perform and also will make the participant perform.</p>
+<p>You'll go through :</p>
+<ul>
+<li>Introducing the environment</li>
+<li>Listing the participants needs</li>
+<li>Listing what surrounds them
+<ul>
+<li>From that having them decide what they want to address in the situation</li>
+<li>Making them use or/and update the information they gathered.</li>
+<li>Make them ideate and reach an outcome.</li>
+<li>Have them exhibit/explain their production</li>
+</ul>
+</li>
+</ul>
+<h3 id="introducing-the-environment">Introducing the environment</h3>
+<p>You start by introducing the story to your participant. Immerge them to the fictitious space in which they need to collabore.
+Don't hesitate to elaborate on details that could enhance the immersion.</p>
+<blockquote>
+<p>An example you can pick up is the first paragraphe of <a href="../content/Story1FR.md">the Trope of the Island</a>.</p>
+</blockquote>
+<h3 id="listing-the-participants-needs">Listing the participants needs</h3>
+<p>Take a starting point by making the participants list their needs.</p>
+<blockquote>
+<p>It's your first milestone.</p>
+</blockquote>
+<p>It can be done by multiple means and it's the designer job to suggest an exercise that fits the context. They can take turns listing needs. One can also bring up a cartography exercise where participants can add what they feel is important from the information they received from the narration and observed from the different content you decided to show.</p>
+<p>You don't want to lose the focus of the participants. In order to keep them attentive we suggest you use a timing limits frame within the context of the narration.
+In <a href="../content/Story1FR.md">the Trope of the Island</a> the night go down after the first meeting what you can say before is that the night is falling in 5 minutes and you put a timer on that everyone can see.</p>
+<h3 id="listing-what-surrounds-them">Listing what surrounds them</h3>
+<p>Separated by some immersive narration you can now bring the participant to observe by diverse interaction what surround them.</p>
+<blockquote>
+<p>Slowly but surely you can install your second milestone.</p>
+</blockquote>
+<p>Like the first you can use multiple design methods to bring the participant to work.
+Here with the preparated material you can from the action they decide to take provide information on their surrounding.</p>
+<p>For example, the participant could decide to walk along the beach. You can provide a photo of an empty small town they encounter. You ask for their reaction. If they decide to explore the habitation propose them to decide on 2 object they found in this kind of habitation. In the end after one or multiple exploration ask them to list what they have at their disposal from the objects they found to the raw materials they saw in the pictures or heard in the recordings.</p>
+<p>As the first milestone don't hesitate to put time on these action. You can say : &quot;it takes me one hour to go to this village [...] it take you two hours to explore the sun is starting to be high in the sky you are starting to feel hungry.&quot;</p>
+<blockquote>
+<p>Wow ! Now we have immerged participant that have aknowledge their needs but also what define their environment. From that can emmerge ideas on what to create.</p>
+</blockquote>
+<h3 id="having-participant-decide-what-they-want-to-address-in-the-situation">having participant decide what they want to address in the situation</h3>
+<p>In this situation participant needs to reach an agreement. This is the most conflictual part of the session but as a designer you can use methods to ease this process and as a game master you can also help moving forward without having the participant forfeit because of their difficult position.</p>
+<blockquote>
+<p>It is the third milestone</p>
+</blockquote>
+<ul>
+<li>
+<p>An example would be to have the participant reach their conclusion within 5 minute because a huge storm is comming. As they know there is the storm constraint they push themselves to find a quick things they need to address while having to put themselves out of danger.</p>
+</li>
+<li>
+<p>Another example would be providing food with narration if they tend to want to adress other issues but they are stopped because of needs they can't assess.</p>
+</li>
+<li>
+<p>Another thing that could be less narrative is the methods to reach agreements. An easy way to perform that is to use a non-player-character (an individual play by the designer to interact with the participant at a certain point) that is in a position of importance. This caracter could propose way to debates if the participants seem to be confuse or disrepectful to the exercise and to each other.</p>
+</li>
+</ul>
+<blockquote>
+<p>The participant start to orientate to what is going to be the outcome of the session !</p>
+</blockquote>
+<h3 id="participant-use-orand-update-the-information-they-gathered">Participant use or/and update the information they gathered.</h3>
+<p>This part is to briefly consider the possibility of iteration on the steps that have been done until now.
+The participant may have figure out thing they missed that they need to explore again in order to solve their issue.
+Iterate is a constructive thing to do in a design process. If the participant want to do so don't hesitate to make them synthetise what they have in order to later be able to reflect on their progression.</p>
+<h3 id="make-them-ideate-and-reach-an-outcome">Make them ideate and reach an outcome</h3>
+<p>Finally the participant have to think about the thing they want to adress.
+We suggest that you start by ideation exercises they would do on their own to then share their ideas and loop on this process to reach good ideas that are commonly shared.</p>
+<p>One that is working very well is the crazy 8's.
+You basically cut 8 piece of paper (making rectangles by folding 3 times also work). You put a 1 minute timer eight times. For each times the participant need to draw and/or write an explanation of a solution.
+They don't need to be super creative they can just change simple things in their ideas.
+Once the 8 minutes are done there is an explaination session. Everyone takes turn telling what their drawing consist of.</p>
+<!-- meh incoming -->
+<p>Once it's done the exercise repeat and people will be able to use the other participants ideas or new ideas they had after the 8 precendent minutes.</p>
+<!-- not sure about the precedent sentence -->
+<p>The exercise iterate as much as needed until a good common idea come up.</p>
+
+</body>
+</html>
