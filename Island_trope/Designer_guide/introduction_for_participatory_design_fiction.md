@@ -94,19 +94,19 @@ You can now bring the participants to interactively observe what surrounds them.
 As during the first milestone activities, you can use multiple design methods to bring the participant to work.
 Here you can provide information on their surrounding. This will spur from the action they decide to take, and you may use the material you prepared.
 
-_For example, the participants could decide to walk along the beach. You can provide a photo of a small empty town they encounter, and ask for their reaction. If they decide to explore the place, they can chose 2 objects they find. In the end after one or multiple exploration ask them to list what they have at their disposal. from this exploration._
+_For example, the participants could decide to walk along the beach. You can provide a photo of a small empty town they encounter, and ask for their reaction. If they decide to explore the place, they can chose 2 objects they find. In the end after one or multiple explorations, you can ask them to list what they have at their disposal._
 
-As the first milestone don't hesitate to put time on these action. You can say : "it takes me one hour to go to this village [...] it take you two hours to explore the sun is starting to be high in the sky you are starting to feel hungry."
+As with the first milestone don't hesitate to spend time with these actions. You can say : "it takes me one hour to go to this village [...] it takes you two hours to explore - the sun is starting to be high in the sky, you are starting to feel hungry."
 
->Wow ! Now we have immerged participant that have aknowledge their needs but also what define their environment. From that can emmerge ideas on what to create.  
+>Wow ! Now we have achieved two things : your participants are immersed in a fictitious world, and they have acknowledged their needs but also what defines their environment. From that, ideas on what to create can rise.  
 
-### having participant decide what they want to address in the situation
+### having participants decide what they want to address in the situation
 
-In this situation participant needs to reach an agreement. This is the most conflictual part of the session but as a designer you can use methods to ease this process and as a game master you can also help moving forward without having the participant forfeit because of their difficult position.
+In this situation participants needs to reach an agreement. This is the most conflictual part of the session. As a designer you can use methods to ease this process, and as a game master you can also help them move forward without them forfeiting because of their difficult position.
 
 >It is the third milestone
 
-- An example would be to have the participant reach their conclusion within 5 minute because a huge storm is comming. As they know there is the storm constraint they push themselves to find a quick things they need to address while having to put themselves out of danger.  
+- An example would be to have the participants reach their conclusion within 5 minute because a huge storm is comming. As they know there is the storm constraint they push themselves to find a quick things they need to address while having to put themselves out of danger.  
 
 - Another example would be providing food with narration if they tend to want to adress other issues but they are stopped because of needs they can't assess.
 
