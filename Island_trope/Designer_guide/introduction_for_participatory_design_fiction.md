@@ -5,48 +5,58 @@
 ```
 A getting started to your first workshop  
 ```
-The ___Participatory Design Fiction___ workshop is going to put yourself into the role of a game master helping players to design an outcome to a fictive matter they want to address.  
+In this ___Participatory Design Fiction___ workshop you have the role of a game master - you are helping players to design an outcome to a fictitious matter they want to address.
 
-To quickly getting started you need to consider 2 elements that are the core of the project : 
- - you will need to narrate the fiction to immerge the participants.   
+To get started quickly you need to consider 2 elements that are the core of the project :
+ - you will need to narrate the fiction to immerse the participants.   
  - you will not be the author of the outcome of the session
 
-In this introductory event the participants needs to be immerged into a fictitious space in order to co-concieve, share and appropriate to themselves the outcome of the collaboration.
-You will be the vector of this production as proffesionnal designer and will be a helper, a mentor, a guide but not the author designer.
-Where you'll fade out will emerge the participants involvment.
+In this introductory event participants need to be immersed into a fictitious space in order to co-conceive, share and appropriate the outcome of the collaboration.
+You will be the vector of this production as professional designer. You will also be a helper, a mentor, a guide - but you will not be the author/designer.
+The participants involvement will emerge when you fade out.
 
-## What is needed 
-What you need to start is participant (start with few) and a scenario on which you will refer to narrate.
+## What is needed
+What you need to start is :
+
+- participants (start with few - 3 to 5 should work great)
+
+- a scenario on which you will refer to narrate.
 [The Trope of the Island](../content/Story1FR.md) is a good base to start with.  
-Design tools will probably be handful for this introduction we are going to use sketching practice to co-design.
 
-## Preparation 
-To prepare the what is going to be the workshop session you'll need creative tools that can be used genericly like paper and pen. More complex materials ([like small cardboard to co-design furniture](http://www.theses.fr/s256242)) can be used depending on the theme, the scenario, the users etc... but for a first session drawing is good enough.
+Design tools will probably be useful for this introduction. One of the tools I suggest we use here is sketching as a practice for co-design.
+
+## Preparation
+
+To prepare the workshop session, you'll need creative tools that can be used generically such as a piece of paper and a pen per participant.
+
+> More complex materials ([like small cardboard to co-design furniture](http://www.theses.fr/s256242)) can be used depending on the theme, the scenario, the users etc... For a first session drawing is good enough.
 
 
 >These are not for you it's for the participants. So make sure to bring enough for everyone.
 
-Secondly you'll need to prepare images and/or sound recording beforehand. These pictures are here to help immersion of the collaborators. They will provide content as well as material that the collaborators will be able to use in their conception.
+Secondly you'll need to prepare images and/or sound recordings beforehand. These pictures are here to help immersion of the collaborators. They will provide content as well as material that the collaborators will be able to use in their conception.
 
 
->Don't bring your expansive argentic pictures. We want someting that we can cut and draw on.
+>Don't bring your expensive argentic pictures. We want someting that we can cut and draw on.
 
-Thirdly you'll have to prepare narrative guidelines to introduce design methodologies. 
+Thirdly you'll follow narrative guidelines to introduce design methodologies.
+
 You want the participant to not go overboard leaving the crew or proposing solutions individually.  
 Ideation exercises and design activities offer a good way to generate milestones in your workshop.
-This will allow to determine the thread that will lead to an intersting outcome.  
-As the Designer you're going to need flexibility on theses milestones. Being able to absorb what the participant want to address first letting go what you would have priorities yourself. If a participant propose a way to ideate it is often worth pickingup on it.  
+This will allow to determine the thread that will lead to an interesting outcome.  
+As the Designer you're going to need flexibility on theses milestones. Being able to absorb what the participant want to address first letting go what you would have priorities yourself. If a participant suggests a way to ideate it is often worth picking up on it.  
 
 > But in practice what does it look like ?
 
-## Start workshopping !
+## Start workshopping!
 
 For a first try we are going to propose a generic thread that you can follow or edit.
 
-Theses steps are interconnected by narration that you will perform and also will make the participant perform. 
+Theses steps are connected through a storyline that both you and the participant will perform.
 
 You'll go through :
- - Introducing the environment 
+
+ - Introducing the environment
  - Listing the participants needs
  - Listing what surrounds them
    - From that having them decide what they want to address in the situation
@@ -56,7 +66,7 @@ You'll go through :
 
 ### Introducing the environment
 You start by introducing the story to your participant. Immerge them to the fictitious space in which they need to collabore.
-Don't hesitate to elaborate on details that could enhance the immersion. 
+Don't hesitate to elaborate on details that could enhance the immersion.
 
 >An example you can pick up is the first paragraphe of [the Trope of the Island](../content/Story1FR.md).
 
@@ -66,9 +76,9 @@ Take a starting point by making the participants list their needs.
 
 >It's your first milestone.
 
-It can be done by multiple means and it's the designer job to suggest an exercise that fits the context. They can take turns listing needs. One can also bring up a cartography exercise where participants can add what they feel is important from the information they received from the narration and observed from the different content you decided to show. 
+It can be done by multiple means and it's the designer job to suggest an exercise that fits the context. They can take turns listing needs. One can also bring up a cartography exercise where participants can add what they feel is important from the information they received from the narration and observed from the different content you decided to show.
 
-You don't want to lose the focus of the participants. In order to keep them attentive we suggest you use a timing limits frame within the context of the narration. 
+You don't want to lose the focus of the participants. In order to keep them attentive we suggest you use a timing limits frame within the context of the narration.
 In [the Trope of the Island](../content/Story1FR.md) the night go down after the first meeting what you can say before is that the night is falling in 5 minutes and you put a timer on that everyone can see.
 
 ### Listing what surrounds them
@@ -77,7 +87,7 @@ Separated by some immersive narration you can now bring the participant to obser
 
 > Slowly but surely you can install your second milestone.
 
-Like the first you can use multiple design methods to bring the participant to work. 
+Like the first you can use multiple design methods to bring the participant to work.
 Here with the preparated material you can from the action they decide to take provide information on their surrounding.
 
 For example, the participant could decide to walk along the beach. You can provide a photo of an empty small town they encounter. You ask for their reaction. If they decide to explore the habitation propose them to decide on 2 object they found in this kind of habitation. In the end after one or multiple exploration ask them to list what they have at their disposal from the objects they found to the raw materials they saw in the pictures or heard in the recordings.
@@ -96,15 +106,15 @@ In this situation participant needs to reach an agreement. This is the most conf
 
 - Another example would be providing food with narration if they tend to want to adress other issues but they are stopped because of needs they can't assess.
 
-- Another thing that could be less narrative is the methods to reach agreements. An easy way to perform that is to use a non-player-character (an individual play by the designer to interact with the participant at a certain point) that is in a position of importance. This caracter could propose way to debates if the participants seem to be confuse or disrepectful to the exercise and to each other. 
+- Another thing that could be less narrative is the methods to reach agreements. An easy way to perform that is to use a non-player-character (an individual play by the designer to interact with the participant at a certain point) that is in a position of importance. This caracter could propose way to debates if the participants seem to be confuse or disrepectful to the exercise and to each other.
 
-> The participant start to orientate to what is going to be the outcome of the session ! 
+> The participant start to orientate to what is going to be the outcome of the session !
 
 ### Participant use or/and update the information they gathered.
 
-This part is to briefly consider the possibility of iteration on the steps that have been done until now. 
+This part is to briefly consider the possibility of iteration on the steps that have been done until now.
 The participant may have figure out thing they missed that they need to explore again in order to solve their issue.
-Iterate is a constructive thing to do in a design process. If the participant want to do so don't hesitate to make them synthetise what they have in order to later be able to reflect on their progression. 
+Iterate is a constructive thing to do in a design process. If the participant want to do so don't hesitate to make them synthetise what they have in order to later be able to reflect on their progression.
 
 ### Make them ideate and reach an outcome
 
