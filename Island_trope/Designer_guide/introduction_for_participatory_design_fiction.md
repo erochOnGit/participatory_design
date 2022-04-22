@@ -106,23 +106,26 @@ In this situation participants needs to reach an agreement. This is the most con
 
 >It is the third milestone
 
-- An example would be to have the participants reach their conclusion within 5 minute because a huge storm is comming. As they know there is the storm constraint they push themselves to find a quick things they need to address while having to put themselves out of danger.  
+- An example would be to have the participants reach their conclusion within 5 minute because a huge storm is coming. As they know there a constraint, they push themselves to find what they need to address quickly.
 
-- Another example would be providing food with narration if they tend to want to adress other issues but they are stopped because of needs they can't assess.
+- Another example would be providing food through narration if they want to address other issues but they are stopped because of needs they can't assess.
 
-- Another thing that could be less narrative is the methods to reach agreements. An easy way to perform that is to use a non-player-character (an individual play by the designer to interact with the participant at a certain point) that is in a position of importance. This caracter could propose way to debates if the participants seem to be confuse or disrepectful to the exercise and to each other.
+- It can be helpful to suggest solutions outside of story-led elements when it comes to the methods needed to reach agreements. An easy way to do that is to use a non-player-character (an individual played by another designer or an actor to interact with the participants at a certain point) that is in a position of importance. This character could propose ways to debates if the participants seem to be confused or disrepectful to the exercise and to each other.
 
-> The participant start to orientate to what is going to be the outcome of the session !
+> The participants start to orient themselves towards the outcome of the session!
 
-### Participant use or/and update the information they gathered.
+### Participants use or/and update the information they gathered.
 
-This part is to briefly consider the possibility of iteration on the steps that have been done until now.
-The participant may have figure out thing they missed that they need to explore again in order to solve their issue.
-Iterate is a constructive thing to do in a design process. If the participant want to do so don't hesitate to make them synthetise what they have in order to later be able to reflect on their progression.
+//[This part exists to briefly consider the possibility of repeat on the steps that have been done until now.]
+
+In this part, the participants will consider  repeating the first part to create a new iteration. On en rediscute plus tard.//
+
+The participant may have figured out things they missed that they need to explore again in order to solve the issue they identified earlier.
+Iteration is a constructive thing to do in a design process. If the participants want to do so, don't hesitate to make them synthesise what they have in order to be able to reflect on their progression later on.
 
 ### Make them ideate and reach an outcome
 
-Finally the participant have to think about the thing they want to adress.
-We suggest that you start by ideation exercises they would do on their own to then share their ideas and loop on this process to reach good ideas that are commonly shared.
+Finally the participant have to think about the thing they want to address.
+We suggest that you start with ideation exercises they can do on their own to then share their ideas and loop on this process to reach good ideas that are commonly shared.
 
-One that is working very well.   
+One that is working very well.  ??? 
