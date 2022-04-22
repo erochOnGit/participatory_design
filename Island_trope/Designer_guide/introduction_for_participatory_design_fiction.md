@@ -94,7 +94,7 @@ You can now bring the participants to interactively observe what surrounds them.
 As during the first milestone activities, you can use multiple design methods to bring the participant to work.
 Here you can provide information on their surrounding. This will spur from the action they decide to take, and you may use the material you prepared.
 
-_For example, the participants could decide to walk along the beach. You can provide a photo of a small empty town they encounter. You ask for their reaction. If they decide to explore the place, they can chose 2 objects they find. In the end after one or multiple exploration ask them to list what they have at their disposal. from this exploration._
+_For example, the participants could decide to walk along the beach. You can provide a photo of a small empty town they encounter, and ask for their reaction. If they decide to explore the place, they can chose 2 objects they find. In the end after one or multiple exploration ask them to list what they have at their disposal. from this exploration._
 
 As the first milestone don't hesitate to put time on these action. You can say : "it takes me one hour to go to this village [...] it take you two hours to explore the sun is starting to be high in the sky you are starting to feel hungry."
 
