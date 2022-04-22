@@ -27,26 +27,27 @@ Design tools will probably be useful for this introduction. One of the tools I s
 
 ## Preparation
 
-To prepare the workshop session, you'll need creative tools that can be used generically such as a piece of paper and a pen per participant.
+- To prepare the workshop session, you'll need creative tools that can be used generically such as a piece of paper and a pen per participant.
 
 > More complex materials ([like small cardboard to co-design furniture](http://www.theses.fr/s256242)) can be used depending on the theme, the scenario, the users etc... For a first session drawing is good enough.
 
 
 >These are not for you it's for the participants. So make sure to bring enough for everyone.
 
-Secondly you'll need to prepare images and/or sound recordings beforehand. These pictures are here to help immersion of the collaborators. They will provide content as well as material that the collaborators will be able to use in their conception.
+- Secondly you'll need to prepare images and/or sound recordings beforehand. These pictures are here to facilitate immersion. They will provide content as well as material that the collaborators will be able to use in their conception.
 
 
->Don't bring your expensive argentic pictures. We want someting that we can cut and draw on.
+>Don't bring your expensive argentic pictures. We want something that we can cut and draw on, chop up, stick, play with.
 
-Thirdly you'll follow narrative guidelines to introduce design methodologies.
+- Thirdly you'll follow narrative guidelines to introduce design methodologies.
 
-You want the participant to not go overboard leaving the crew or proposing solutions individually.  
+>You want the participant to not go overboard leaving the crew or proposing solutions individually.  
+
 Ideation exercises and design activities offer a good way to generate milestones in your workshop.
 This will allow to determine the thread that will lead to an interesting outcome.  
-As the Designer you're going to need flexibility on theses milestones. Being able to absorb what the participant want to address first letting go what you would have priorities yourself. If a participant suggests a way to ideate it is often worth picking up on it.  
+As the Designer you're going to need to be flexible with these milestones. Being able to absorb what the participants want to address first, letting go what you would have prioritised yourself. If a participant suggests a way to ideate, it is often worth picking up on it.  
 
-> But in practice what does it look like ?
+> But in practice what does it look like?
 
 ## Start workshopping!
 
@@ -54,43 +55,46 @@ For a first try we are going to propose a generic thread that you can follow or 
 
 Theses steps are connected through a storyline that both you and the participant will perform.
 
-You'll go through :
+In the following section, we will explore the following steps:
 
  - Introducing the environment
  - Listing the participants needs
  - Listing what surrounds them
-   - From that having them decide what they want to address in the situation
-   - Making them use or/and update the information they gathered.
-   - Make them ideate and reach an outcome.
-   - Have them exhibit/explain their production  
+   - From that they shall decide what they want to address in the situation
+   - They will then use or/and update the information they gathered.
+   - They will then ideate and reach an outcome.
+   - They will finally exhibit/explain their production.
 
 ### Introducing the environment
-You start by introducing the story to your participant. Immerge them to the fictitious space in which they need to collabore.
+
+Start by introducing the story. Immerse them in the fictitious space in which they need to collaborate.
 Don't hesitate to elaborate on details that could enhance the immersion.
 
 >An example you can pick up is the first paragraphe of [the Trope of the Island](../content/Story1FR.md).
 
-### Listing the participants needs
+### Listing the participants' needs
 
-Take a starting point by making the participants list their needs.
+You will now invite the participants to list their needs.
 
->It's your first milestone.
+>This is your first milestone.
 
-It can be done by multiple means and it's the designer job to suggest an exercise that fits the context. They can take turns listing needs. One can also bring up a cartography exercise where participants can add what they feel is important from the information they received from the narration and observed from the different content you decided to show.
+This can be done in multiple ways and the designer's job is to suggest an exercise that fits the context. They can take turns listing needs. One can also bring up a cartography exercise where participants can add what they feel is important from the information they received from the narration and observed from the different content you decided to show.
 
-You don't want to lose the focus of the participants. In order to keep them attentive we suggest you use a timing limits frame within the context of the narration.
-In [the Trope of the Island](../content/Story1FR.md) the night go down after the first meeting what you can say before is that the night is falling in 5 minutes and you put a timer on that everyone can see.
+You don't want to lose the participant's focus. In order for them to stay attentive we suggest you use a time frame within the context of the narration.
+
+In [the Trope of the Island](../content/Story1FR.md) the night goes down after the first meeting. You could frame it by saying "the night will fall in 5 minutes" and put a timer on.
 
 ### Listing what surrounds them
 
-Separated by some immersive narration you can now bring the participant to observe by diverse interaction what surround them.
+Create a transition through immersive narration - much like a cinematic in a video game.
+You can now bring the participants to interactively observe what surrounds them.
 
 > Slowly but surely you can install your second milestone.
 
-Like the first you can use multiple design methods to bring the participant to work.
-Here with the preparated material you can from the action they decide to take provide information on their surrounding.
+As during the first milestone activities, you can use multiple design methods to bring the participant to work.
+Here you can provide information on their surrounding. This will spur from the action they decide to take, and you may use the material you prepared.
 
-For example, the participant could decide to walk along the beach. You can provide a photo of an empty small town they encounter. You ask for their reaction. If they decide to explore the habitation propose them to decide on 2 object they found in this kind of habitation. In the end after one or multiple exploration ask them to list what they have at their disposal from the objects they found to the raw materials they saw in the pictures or heard in the recordings.
+_For example, the participants could decide to walk along the beach. You can provide a photo of a small empty town they encounter. You ask for their reaction. If they decide to explore the place, they can chose 2 objects they find. In the end after one or multiple exploration ask them to list what they have at their disposal. from this exploration._
 
 As the first milestone don't hesitate to put time on these action. You can say : "it takes me one hour to go to this village [...] it take you two hours to explore the sun is starting to be high in the sky you are starting to feel hungry."
 
