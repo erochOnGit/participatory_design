@@ -121,11 +121,34 @@ In this situation participants needs to reach an agreement. This is the most con
 In this part, the participants will consider  repeating the first part to create a new iteration. On en rediscute plus tard.// -->
 
 The participant may have figured out things they missed that they need to explore again in order to solve the issue they identified earlier.
-Iteration is a constructive thing to do in a design process. If the participants want to do so, don't hesitate to make them synthesise what they have in order to be able to reflect on their progression later on.
+Iteration is an important part of the design process. If the participants want to do so, don't hesitate suggest synthesising what they have in order to be able to reflect on their progression later on.
 
 ### Make them ideate and reach an outcome
 
 Finally the participant have to think about the thing they want to address.
 We suggest that you start with ideation exercises they can do on their own to then share their ideas and loop on this process to reach good ideas that are commonly shared.
 
-One that is working very well.  ??? 
+> ideation design methods are here the fourth milestone
+
+One that is working very well is the crazy 8's. 
+You basically cut 8 piece of paper (making rectangles by folding 3 times also work). You put a 1 minute timer eight times. For each times the participant need to draw and/or write an explanation of a solution.
+They don't need to be super creative they can just change simple things in their ideas.
+Once the 8 minutes are done there is an explaination session. Everyone takes turn telling what their drawing consist of.
+<!-- meh incoming -->
+Once it's done the exercise repeat and people will be able to use the other participants ideas or new ideas they had after the 8 precendent minutes.
+<!-- not sure about the precedent sentence -->
+The exercise iterate as much as needed until one or more good common idea come up and poeple feel satisfied of the situation.
+
+> Amazing you made participant ideate something even if they are not designer themselves. 
+
+### Have them exhibit/explain their production  
+
+In order to put theory into practice and make the participant build an experience that will resonate with his real environment we suggest to make him do a restitution.
+
+> The final and Fifth milestone is this presentation
+
+The presentation we suggest you have for your first session is a recipe. It's a really simple thing that poeple will probably know how to do and if not it can be explain by saying make a list of ingredient and then make a list of step that use them, that's it.
+
+The more physical the restitution is the more resonating it will be with the participant real environment so keep in mind if you can do it physicly. 
+
+Thanks for reading lol
