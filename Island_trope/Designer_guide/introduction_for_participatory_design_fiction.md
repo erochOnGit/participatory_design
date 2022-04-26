@@ -116,9 +116,9 @@ In this situation participants needs to reach an agreement. This is the most con
 
 ### Participants use or/and update the information they gathered.
 
-//[This part exists to briefly consider the possibility of repeat on the steps that have been done until now.]
+<!-- //[This part exists to briefly consider the possibility of repeat on the steps that have been done until now.]
 
-In this part, the participants will consider  repeating the first part to create a new iteration. On en rediscute plus tard.//
+In this part, the participants will consider  repeating the first part to create a new iteration. On en rediscute plus tard.// -->
 
 The participant may have figured out things they missed that they need to explore again in order to solve the issue they identified earlier.
 Iteration is a constructive thing to do in a design process. If the participants want to do so, don't hesitate to make them synthesise what they have in order to be able to reflect on their progression later on.
