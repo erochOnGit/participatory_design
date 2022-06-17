@@ -1,3 +1,4 @@
+[Home](../../README.md)  
 [Designer guide](README.md)
 
 # Introduction for ___Participatory Design Fiction___ workshop
@@ -151,4 +152,4 @@ The presentation we suggest you have for your first session is a recipe. It's a 
 
 The more physical the restitution is the more resonating it will be with the participant real environment so keep in mind if you can do it physicly. 
 
-Thanks for reading lol
+Thanks for reading
